@@ -3,7 +3,7 @@
         {host: 'chrome.google.com', basePath: '/webstore/detail/'},
         {host: 'chromewebstore.google.com', basePath: '/detail/'}
     ];
-    var CRX_BASE_URL = 'https://web.archive.org/web/20250107230658/https://clients2.google.com/service/update2/crx';
+    var CRX_BASE_URL = 'https://clients2.google.com/service/update2/crx';
 
     var form = document.getElementById('form');
     var downloadLink = document.getElementById('downloadLink');
